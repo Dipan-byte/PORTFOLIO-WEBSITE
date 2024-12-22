@@ -7,10 +7,10 @@ PROJECT WORKER(2) - SUBHRAJIT NASKAR </br>
 DIPAN MALLICK</br>
 {
     used-color {
-            rgb(223, 242, 235) ;
-            rgb(185, 229, 232) ;
-            rgb(122, 178, 211) ;
-            rgb(74, 98, 138) ;
+                rgb(211, 241, 223)
+                rgb(133, 169, 143)
+            	rgb(90, 108, 87)
+                rgb(82, 91, 68)
 
 
         	
