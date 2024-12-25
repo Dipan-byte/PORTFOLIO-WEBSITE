@@ -7,3 +7,16 @@
 .image-menu{
     width : 100% ;
 }
+.profile-pic{
+   width: 100%;
+   border-radius: 80px;
+   height: 100%;
+   
+
+}
+.profile-pic-div{
+    width: 400px;
+    border-radius: 80px;
+    border-color: black ;
+    border-style: solid;
+}
