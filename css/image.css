@@ -8,15 +8,15 @@
     width : 100% ;
 }
 .profile-pic{
-   width: 100%;
+   width:550px; 
    border-radius: 80px;
-   height: 100%;
+  
    
 
 }
 .profile-pic-div{
-    width: 400px;
-    border-radius: 80px;
     border-color: black ;
     border-style: solid;
+   display: flex;
+   justify-content: right;
 }
