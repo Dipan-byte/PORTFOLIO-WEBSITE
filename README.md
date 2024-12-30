@@ -9,7 +9,7 @@ DIPAN MALLICK</br>
     used-color {
             
             
-                rgb(211, 241, 223)
+                 rgb(211, 241, 223)
                 rgb(133, 169, 143)
             	rgb(90, 108, 87)
                 rgb(82, 91, 68)
